@@ -1,0 +1,9 @@
+.divCards {
+    width: 100%;
+    height: 110vh;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+

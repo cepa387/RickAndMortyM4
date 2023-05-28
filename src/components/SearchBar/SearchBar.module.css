@@ -1,0 +1,49 @@
+.div {
+     width: 60%;
+     height: 8vh;
+     margin-top: 10px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.search {
+    width: 50%;
+    height: 50%;
+    border-radius: 0.3rem;
+    border: none;
+    background-color: rgb(7, 7, 49);
+    box-shadow:  3px 6px 15px 4px  rgb(20, 9, 2);
+    outline: 4px solid rgb(12, 12, 87);
+    margin-right: 15px;
+    color:  rgb(198, 250, 10);
+    font-size: 1.52rem;
+
+}
+
+.buttonSearch{
+    width: 15%;
+    height: 60%;
+    border-radius: 0.3rem;
+    background-color: rgb(42, 143, 28);
+    border: none;
+    cursor: pointer;
+    color:  rgb(198, 250, 10);
+    font-size: 1.52rem;
+    font-weight: bond;
+    box-shadow:  3px 6px 15px 4px  rgb(20, 9, 2);
+    outline: 4px solid rgb(12, 12, 87);
+    
+}
+.buttonSearch:hover{
+    background-color: rgb(7, 7, 49);
+    outline: 4px solid rgb(45, 154, 29);
+    
+}
+
+
+btn:hover {
+    width: 7vw;
+    height: 5vh;
+    transition: 0.4s;
+}
